@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3f07e71-6f33-43da-a77f-a750039be805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/project2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/project3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project3/project3.py" beforeDir="false" afterPath="$PROJECT_DIR$/project3/project3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "Python.main.executor": "Run",
     "Python.project1.executor": "Run",
     "Python.project2.executor": "Run",
+    "Python.project3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/desti/PycharmProjects/csc115lab/week9/w9_lab_practice.py",
